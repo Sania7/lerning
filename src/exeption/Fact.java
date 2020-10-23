@@ -6,7 +6,6 @@ package exeption;
  * java.lang.IllegalStateException - метод вызывается с объекта в не корректном состоянии.
  * java.lang.NullPointerException - методы вызывается у переменной, которая инициализирована null ссылкой.
  */
-
 public class Fact {
     public static void main(String[] args) {
     }
